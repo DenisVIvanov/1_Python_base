@@ -18,3 +18,13 @@ pandas, seaborn, scipy.stats, sklearn.models
 Причины ухода покупателей
 
 pandas, matplotlib, seaborn
+
+
+Задача 3
+Taxi
+
+Расчет бизнес метрик
+Описательная статистика
+Проверка гипотез
+
+pandas, matplotlib, seaborn, scipy.stats
